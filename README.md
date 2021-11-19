@@ -9,6 +9,7 @@
 <p>│   └── tool.py                 # image train/test generator and preprocesing csv 
 <p>├── main.py                     # main script to run
 <p>├── predict.py                  # Predict result (show 2x2 img and predictive mask)
+<p>├── requirements.txt            # needed libraries
 <p>└── seg_model_weights_best.hdf5 # best model weights
 
 <h1> Instructions</h1>
